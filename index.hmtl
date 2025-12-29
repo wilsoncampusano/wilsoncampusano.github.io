@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Wilson Campusano | Arquitectura & Liderazgo Tecnológico</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+
+  <header class="hero">
+    <h1>Wilson Campusano</h1>
+    <h2>Arquitectura de Software · Liderazgo Técnico · Plataformas Modernas</h2>
+    <p>
+      Diseño y lidero plataformas tecnológicas escalables, seguras y orientadas al negocio.
+      Transformo equipos y sistemas para que puedan evolucionar sin fricción.
+    </p>
+  </header>
+
+  <section class="section">
+    <h3>Sobre mí</h3>
+    <p>
+      Soy un profesional de tecnología con enfoque en arquitectura moderna, liderazgo técnico
+      y construcción de plataformas que soportan crecimiento real del negocio.
+    </p>
+    <p>
+      Trabajo en la intersección entre estrategia, arquitectura y ejecución,
+      ayudando a equipos a reducir deuda técnica, acelerar entregas y
+      construir sistemas sostenibles a largo plazo.
+    </p>
+  </section>
+
+  <section class="section">
+    <h3>En qué creo</h3>
+    <ul>
+      <li>La plataforma es parte del producto</li>
+      <li>La arquitectura debe habilitar, no bloquear</li>
+      <li>La deuda técnica es una decisión de negocio</li>
+      <li>Los equipos fuertes construyen sistemas fuertes</li>
+      <li>La seguridad y la escalabilidad no son opcionales</li>
+    </ul>
+  </section>
+
+  <section class="section">
+    <h3>Áreas de enfoque</h3>
+    <div class="grid">
+      <div class="card">
+        <h4>Arquitectura Moderna</h4>
+        <p>
+          Diseño de arquitecturas cloud-native, desacopladas y orientadas a la evolución continua.
+        </p>
+      </div>
+      <div class="card">
+        <h4>Liderazgo Técnico</h4>
+        <p>
+          Dirección de equipos, toma de decisiones técnicas y alineación entre negocio y tecnología.
+        </p>
+      </div>
+      <div class="card">
+        <h4>Plataformas & Escalabilidad</h4>
+        <p>
+          Construcción de plataformas que permiten a múltiples equipos avanzar sin fricción.
+        </p>
+      </div>
+      <div class="card">
+        <h4>Security by Design</h4>
+        <p>
+          Seguridad integrada desde la arquitectura hasta el ciclo de desarrollo.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h3>Tecnologías</h3>
+    <p>
+      .NET · Java · Kubernetes · Docker · React · Angular · Next.js · Cloud · CI/CD ·
+      Arquitectura de Microservicios · Observabilidad · APIs
+    </p>
+  </section>
+
+  <section class="section">
+    <h3>Cómo aporto valor</h3>
+    <ul>
+      <li>Diseñando arquitecturas que resisten el tiempo</li>
+      <li>Reduciendo fricción entre equipos y áreas</li>
+      <li>Transformando deuda técnica en ventaja competitiva</li>
+      <li>Alineando tecnología con objetivos reales del negocio</li>
+    </ul>
+  </section>
+
+  <footer class="footer">
+    <p>
+      Conectemos en 
+      <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>
+    </p>
+  </footer>
+
+</body>
+</html>
