@@ -1,4 +1,14 @@
-## Hi there 👋
+# Wilson Campusano – Arquitectura & Liderazgo Tecnológico
+
+GitHub Page personal enfocada en arquitectura de software, liderazgo técnico
+y construcción de plataformas modernas.
+
+🔹 Arquitectura Cloud-Native  
+🔹 Liderazgo de equipos técnicos  
+🔹 Plataformas escalables  
+🔹 Security by Design  
+
+Publicado con GitHub Pages.
 
 <!--
 **wilsoncampusano/wilsoncampusano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
